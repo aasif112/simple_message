@@ -1,4 +1,7 @@
 
 
+let greet = 'hello';
+console.log(greet);
+let userName = 'aasif ali';
 
-console.log('hello git hub')
+console.log(greet + userName)
